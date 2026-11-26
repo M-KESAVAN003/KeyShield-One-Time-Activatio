@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KeyShield</string>
+    <string name="ime_name">KeyShield Secure Keyboard</string>
+    <string name="subtype_english">English (US)</string>
+</resources>
